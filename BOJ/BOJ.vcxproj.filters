@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\기본 수학 1">
+      <UniqueIdentifier>{8e2db65e-b164-483a-995c-a11f3c8e1e62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\함수">
+      <UniqueIdentifier>{ea4f84e2-427b-4b4b-9b8f-e1ae16fc0a7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\재귀함수">
+      <UniqueIdentifier>{20d97d37-fb7d-43cb-80b8-df1822eac43c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\단순구현">
+      <UniqueIdentifier>{fa385fdb-6820-4aaa-af9f-dc681c063cec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그래프와 순회">
+      <UniqueIdentifier>{fe4df47a-c904-408f-a173-6ed6c59ffb77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\다이나믹 프로그래밍">
+      <UniqueIdentifier>{15ec61da-002e-4b32-a248-e0fc27a5db27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\기본 수학 2">
+      <UniqueIdentifier>{05f959f3-5780-4a8b-975c-b48503e0574f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문자열">
+      <UniqueIdentifier>{8a711909-8d20-4337-9dc0-f73482520308}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1065 - 한수.cpp">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="4673 - 셀프넘버.cpp">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="2839 - 설탕배달.cpp">
+      <Filter>소스 파일\기본 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="%28미해결%292869 - 달팽이는 올라가고 싶다.cpp">
+      <Filter>소스 파일\기본 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\백준\백준\10250 - ACM호텔.cpp">
+      <Filter>소스 파일\기본 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\백준\백준\1003 - 피보나치함수.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\백준\백준\2563 - 색종이.cpp">
+      <Filter>소스 파일\단순구현</Filter>
+    </ClCompile>
+    <ClCompile Include="1110 - 더하기 사이클.cpp">
+      <Filter>소스 파일\단순구현</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\백준\백준\1929 - 소수구하기.cpp">
+      <Filter>소스 파일\단순구현</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\백준\백준\2530 - 인공지능 시계.cpp">
+      <Filter>소스 파일\단순구현</Filter>
+    </ClCompile>
+    <ClCompile Include="2525 - 오븐시계.cpp">
+      <Filter>소스 파일\단순구현</Filter>
+    </ClCompile>
+    <ClCompile Include="2884 - 알람시계.cpp">
+      <Filter>소스 파일\단순구현</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\백준\백준\2573 - 빙산.cpp">
+      <Filter>소스 파일\그래프와 순회</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\백준\백준\6378 - 디지털루트.cpp">
+      <Filter>소스 파일\단순구현</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\백준\백준\9012 - 괄호.cpp">
+      <Filter>소스 파일\단순구현</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\백준\백준\9095 - 1,2,3 더하기.cpp">
+      <Filter>소스 파일\다이나믹 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\백준\백준\10026 - 적록색약.cpp">
+      <Filter>소스 파일\그래프와 순회</Filter>
+    </ClCompile>
+    <ClCompile Include="15596 - 정수N개의 합.cpp">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\백준\백준\(미해결)1182 - 부분수열의 합.cpp">
+      <Filter>소스 파일\그래프와 순회</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\백준\백준\(미해결)2630 - 색종이 만들기.cpp">
+      <Filter>소스 파일\그래프와 순회</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\백준\백준\(미해결)10166 - 관중석.cpp">
+      <Filter>소스 파일\단순구현</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\백준\백준\%28미해결%292579 - 계단오르기.cpp">
+      <Filter>소스 파일\다이나믹 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="1712 - 손익분기점.cpp">
+      <Filter>소스 파일\기본 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="%28미해결%292292 - 벌집.cpp">
+      <Filter>소스 파일\기본 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="1193 - 분수찾기.cpp">
+      <Filter>소스 파일\기본 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="2775 - 부녀회장이 될테야.cpp">
+      <Filter>소스 파일\기본 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="%28미해결%2910757 - 큰수 A+B.cpp">
+      <Filter>소스 파일\기본 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="11653 - 소인수분해.cpp">
+      <Filter>소스 파일\기본 수학 2</Filter>
+    </ClCompile>
+    <ClCompile Include="%28미해결%294948 - 베르트랑 공준.cpp">
+      <Filter>소스 파일\기본 수학 2</Filter>
+    </ClCompile>
+    <ClCompile Include="%28미해결%299020 - 골드바흐의 추측.cpp">
+      <Filter>소스 파일\기본 수학 2</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
