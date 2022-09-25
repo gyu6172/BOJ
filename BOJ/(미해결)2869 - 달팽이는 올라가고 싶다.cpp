@@ -14,6 +14,7 @@ int main() {
 		day++;
 	}
 
+
 	printf("%d",day);
 
 }
