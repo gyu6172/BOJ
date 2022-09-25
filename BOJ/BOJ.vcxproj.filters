@@ -129,5 +129,8 @@
     <ClCompile Include="%28미해결%299020 - 골드바흐의 추측.cpp">
       <Filter>소스 파일\기본 수학 2</Filter>
     </ClCompile>
+    <ClCompile Include="2675 - 문자열 반복.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
