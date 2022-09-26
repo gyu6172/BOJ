@@ -230,10 +230,10 @@
     <ClCompile Include="4673 - 셀프넘버.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="%28미해결%294948 - 베르트랑 공준.cpp">
+    <ClCompile Include="4948 - 베르트랑 공준.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="%28미해결%299020 - 골드바흐의 추측.cpp">
+    <ClCompile Include="9020 - 골드바흐의 추측.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="5622 - 다이얼.cpp">
