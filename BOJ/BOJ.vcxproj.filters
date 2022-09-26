@@ -48,9 +48,6 @@
     <ClCompile Include="2839 - 설탕배달.cpp">
       <Filter>소스 파일\기본 수학 1</Filter>
     </ClCompile>
-    <ClCompile Include="%28미해결%292869 - 달팽이는 올라가고 싶다.cpp">
-      <Filter>소스 파일\기본 수학 1</Filter>
-    </ClCompile>
     <ClCompile Include="1110 - 더하기 사이클.cpp">
       <Filter>소스 파일\단순구현</Filter>
     </ClCompile>
@@ -66,7 +63,7 @@
     <ClCompile Include="1712 - 손익분기점.cpp">
       <Filter>소스 파일\기본 수학 1</Filter>
     </ClCompile>
-    <ClCompile Include="%28미해결%292292 - 벌집.cpp">
+    <ClCompile Include="2292 - 벌집.cpp">
       <Filter>소스 파일\기본 수학 1</Filter>
     </ClCompile>
     <ClCompile Include="1193 - 분수찾기.cpp">
@@ -146,6 +143,12 @@
     </ClCompile>
     <ClCompile Include="10809 - 알파벳 찾기.cpp">
       <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="tmp.cpp">
+      <Filter>소스 파일\기본 수학 1</Filter>
+    </ClCompile>
+    <ClCompile Include="%28미해결%292869 - 달팽이는 올라가고 싶다.cpp">
+      <Filter>소스 파일\기본 수학 1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
