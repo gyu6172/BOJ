@@ -34,8 +34,12 @@ int main() {
 	else if ((a-b) > (v-a)) {
 		day=2;
 	}
-	else {
+	//아래가 잘못되었다.
+	else if ((v - a) % (a - b) == 0) {
 		day++;
+	}
+	else {
+		day+=2;
 	}
 
 	printf("%d",day);
