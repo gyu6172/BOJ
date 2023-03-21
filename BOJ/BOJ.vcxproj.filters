@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\문자열">
       <UniqueIdentifier>{8a711909-8d20-4337-9dc0-f73482520308}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\재귀">
+      <UniqueIdentifier>{7429c057-cde5-4337-8c27-0d0460e4711f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065 - 한수.cpp">
@@ -173,6 +176,9 @@
     </ClCompile>
     <ClCompile Include="1213 - 팰린드롬 만들기.cpp">
       <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="11729-하노이 탑 이동 순서.cpp">
+      <Filter>소스 파일\재귀</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
