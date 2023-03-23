@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\재귀">
       <UniqueIdentifier>{7429c057-cde5-4337-8c27-0d0460e4711f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\SAL중급반 문제">
+      <UniqueIdentifier>{4e0107a4-accc-4ead-93e1-01eca02d4a5c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065 - 한수.cpp">
@@ -179,6 +182,18 @@
     </ClCompile>
     <ClCompile Include="11729-하노이 탑 이동 순서.cpp">
       <Filter>소스 파일\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="%28미해결%2915947-아기 석환 뚜루루 뚜루.cpp">
+      <Filter>소스 파일\SAL중급반 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="%28X%292003-수들의 합2.cpp">
+      <Filter>소스 파일\SAL중급반 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="20004-배스킨라빈스 31.cpp">
+      <Filter>소스 파일\SAL중급반 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="12865-평범한 배낭.cpp">
+      <Filter>소스 파일\SAL중급반 문제</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
