@@ -19,9 +19,6 @@
     <Filter Include="소스 파일\함수">
       <UniqueIdentifier>{ea4f84e2-427b-4b4b-9b8f-e1ae16fc0a7d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\재귀함수">
-      <UniqueIdentifier>{20d97d37-fb7d-43cb-80b8-df1822eac43c}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\단순구현">
       <UniqueIdentifier>{fa385fdb-6820-4aaa-af9f-dc681c063cec}</UniqueIdentifier>
     </Filter>
@@ -42,6 +39,9 @@
     </Filter>
     <Filter Include="소스 파일\SAL중급반 문제">
       <UniqueIdentifier>{4e0107a4-accc-4ead-93e1-01eca02d4a5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\미해결문제">
+      <UniqueIdentifier>{0da8e7a5-59eb-409f-a8e3-9c64cede1dca}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -78,9 +78,6 @@
     <ClCompile Include="2775 - 부녀회장이 될테야.cpp">
       <Filter>소스 파일\기본 수학 1</Filter>
     </ClCompile>
-    <ClCompile Include="%28미해결%2910757 - 큰수 A+B.cpp">
-      <Filter>소스 파일\기본 수학 1</Filter>
-    </ClCompile>
     <ClCompile Include="11653 - 소인수분해.cpp">
       <Filter>소스 파일\기본 수학 2</Filter>
     </ClCompile>
@@ -90,17 +87,11 @@
     <ClCompile Include="2675 - 문자열 반복.cpp">
       <Filter>소스 파일\문자열</Filter>
     </ClCompile>
-    <ClCompile Include="1003 - 피보나치 함수.cpp">
-      <Filter>소스 파일\재귀함수</Filter>
-    </ClCompile>
     <ClCompile Include="4948 - 베르트랑 공준.cpp">
       <Filter>소스 파일\기본 수학 2</Filter>
     </ClCompile>
     <ClCompile Include="10250 - ACM호텔.cpp">
       <Filter>소스 파일\기본 수학 1</Filter>
-    </ClCompile>
-    <ClCompile Include="%28미해결%2910166 - 관중석.cpp">
-      <Filter>소스 파일\단순구현</Filter>
     </ClCompile>
     <ClCompile Include="1929 - 소수구하기.cpp">
       <Filter>소스 파일\단순구현</Filter>
@@ -116,12 +107,6 @@
     </ClCompile>
     <ClCompile Include="9012 - 괄호.cpp">
       <Filter>소스 파일\단순구현</Filter>
-    </ClCompile>
-    <ClCompile Include="(미해결)1182 - 부분수열의 합.cpp">
-      <Filter>소스 파일\그래프와 순회</Filter>
-    </ClCompile>
-    <ClCompile Include="(미해결)2630 - 색종이 만들기.cpp">
-      <Filter>소스 파일\그래프와 순회</Filter>
     </ClCompile>
     <ClCompile Include="2573 - 빙산.cpp">
       <Filter>소스 파일\그래프와 순회</Filter>
@@ -156,9 +141,6 @@
     <ClCompile Include="2566 - 최댓값.cpp">
       <Filter>소스 파일\단순구현</Filter>
     </ClCompile>
-    <ClCompile Include="%28미해결%291181 - 단어 정렬.cpp">
-      <Filter>소스 파일\문자열</Filter>
-    </ClCompile>
     <ClCompile Include="1427 - 소트인사이드.cpp">
       <Filter>소스 파일\문자열</Filter>
     </ClCompile>
@@ -174,17 +156,8 @@
     <ClCompile Include="1120 - 문자열.cpp">
       <Filter>소스 파일\문자열</Filter>
     </ClCompile>
-    <ClCompile Include="%28미해결%299935 - 문자열 폭발.cpp">
-      <Filter>소스 파일\문자열</Filter>
-    </ClCompile>
     <ClCompile Include="1213 - 팰린드롬 만들기.cpp">
       <Filter>소스 파일\문자열</Filter>
-    </ClCompile>
-    <ClCompile Include="11729-하노이 탑 이동 순서.cpp">
-      <Filter>소스 파일\재귀</Filter>
-    </ClCompile>
-    <ClCompile Include="%28미해결%2915947-아기 석환 뚜루루 뚜루.cpp">
-      <Filter>소스 파일\SAL중급반 문제</Filter>
     </ClCompile>
     <ClCompile Include="%28X%292003-수들의 합2.cpp">
       <Filter>소스 파일\SAL중급반 문제</Filter>
@@ -194,6 +167,39 @@
     </ClCompile>
     <ClCompile Include="12865-평범한 배낭.cpp">
       <Filter>소스 파일\SAL중급반 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="%28미해결%2915947-아기 석환 뚜루루 뚜루.cpp">
+      <Filter>소스 파일\미해결문제</Filter>
+    </ClCompile>
+    <ClCompile Include="(미해결)1182 - 부분수열의 합.cpp">
+      <Filter>소스 파일\미해결문제</Filter>
+    </ClCompile>
+    <ClCompile Include="%28미해결%2910757 - 큰수 A+B.cpp">
+      <Filter>소스 파일\미해결문제</Filter>
+    </ClCompile>
+    <ClCompile Include="%28미해결%2910166 - 관중석.cpp">
+      <Filter>소스 파일\미해결문제</Filter>
+    </ClCompile>
+    <ClCompile Include="%28미해결%291181 - 단어 정렬.cpp">
+      <Filter>소스 파일\미해결문제</Filter>
+    </ClCompile>
+    <ClCompile Include="%28미해결%299935 - 문자열 폭발.cpp">
+      <Filter>소스 파일\미해결문제</Filter>
+    </ClCompile>
+    <ClCompile Include="1003 - 피보나치 함수.cpp">
+      <Filter>소스 파일\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="11729-하노이 탑 이동 순서.cpp">
+      <Filter>소스 파일\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="%28미해결%292447 - 별찍기-10.cpp">
+      <Filter>소스 파일\미해결문제</Filter>
+    </ClCompile>
+    <ClCompile Include="1780 - 종이의 개수.cpp">
+      <Filter>소스 파일\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="2630 - 색종이 만들기.cpp">
+      <Filter>소스 파일\재귀</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
