@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\미해결문제">
       <UniqueIdentifier>{0da8e7a5-59eb-409f-a8e3-9c64cede1dca}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\연결리스트">
+      <UniqueIdentifier>{f545ca05-47f4-41e6-b3db-942796aa4dad}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065 - 한수.cpp">
@@ -200,6 +203,9 @@
     </ClCompile>
     <ClCompile Include="2630 - 색종이 만들기.cpp">
       <Filter>소스 파일\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="1406 - 에디터.cpp">
+      <Filter>소스 파일\연결리스트</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
