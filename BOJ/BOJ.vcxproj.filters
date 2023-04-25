@@ -195,9 +195,6 @@
     <ClCompile Include="11729-하노이 탑 이동 순서.cpp">
       <Filter>소스 파일\재귀</Filter>
     </ClCompile>
-    <ClCompile Include="%28미해결%292447 - 별찍기-10.cpp">
-      <Filter>소스 파일\미해결문제</Filter>
-    </ClCompile>
     <ClCompile Include="1780 - 종이의 개수.cpp">
       <Filter>소스 파일\재귀</Filter>
     </ClCompile>
@@ -214,6 +211,9 @@
       <Filter>소스 파일\연결리스트</Filter>
     </ClCompile>
     <ClCompile Include="달팽이 배열.cpp">
+      <Filter>소스 파일\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="%28공부필요%292447 - 별찍기-10.cpp">
       <Filter>소스 파일\재귀</Filter>
     </ClCompile>
   </ItemGroup>
