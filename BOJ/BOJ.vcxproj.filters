@@ -222,5 +222,8 @@
     <ClCompile Include="스택 뼈대.cpp">
       <Filter>소스 파일\스택</Filter>
     </ClCompile>
+    <ClCompile Include="10773-제로.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
