@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\연결리스트">
       <UniqueIdentifier>{f545ca05-47f4-41e6-b3db-942796aa4dad}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\스택">
+      <UniqueIdentifier>{68c4fc00-9259-4299-a7c6-2d7cc6fb0f58}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1065 - 한수.cpp">
@@ -215,6 +218,9 @@
     </ClCompile>
     <ClCompile Include="%28공부필요%292447 - 별찍기-10.cpp">
       <Filter>소스 파일\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="스택 뼈대.cpp">
+      <Filter>소스 파일\스택</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
