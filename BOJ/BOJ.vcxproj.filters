@@ -177,16 +177,10 @@
     <ClCompile Include="%28미해결%2915947-아기 석환 뚜루루 뚜루.cpp">
       <Filter>소스 파일\미해결문제</Filter>
     </ClCompile>
-    <ClCompile Include="(미해결)1182 - 부분수열의 합.cpp">
-      <Filter>소스 파일\미해결문제</Filter>
-    </ClCompile>
     <ClCompile Include="%28미해결%2910757 - 큰수 A+B.cpp">
       <Filter>소스 파일\미해결문제</Filter>
     </ClCompile>
     <ClCompile Include="%28미해결%2910166 - 관중석.cpp">
-      <Filter>소스 파일\미해결문제</Filter>
-    </ClCompile>
-    <ClCompile Include="%28미해결%291181 - 단어 정렬.cpp">
       <Filter>소스 파일\미해결문제</Filter>
     </ClCompile>
     <ClCompile Include="%28미해결%299935 - 문자열 폭발.cpp">
@@ -230,6 +224,15 @@
     </ClCompile>
     <ClCompile Include="1018-체스판 다시 칠하기.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1181 - 단어 정렬.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="2493-탑.cpp">
+      <Filter>소스 파일\단순구현</Filter>
+    </ClCompile>
+    <ClCompile Include="1182 - 부분수열의 합.cpp">
+      <Filter>소스 파일\재귀</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
