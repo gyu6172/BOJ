@@ -235,7 +235,10 @@
       <Filter>소스 파일\재귀</Filter>
     </ClCompile>
     <ClCompile Include="2644 - 촌수계산.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="7562 - 나이트의 이동.cpp">
+      <Filter>소스 파일\재귀</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
